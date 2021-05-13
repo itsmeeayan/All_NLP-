@@ -1,0 +1,3 @@
+The Dataset used in this project can be found in kaggle.com
+The dataset contains 3 catagories of images of chest X_Rays: Normal, Covid-19 infected, patients suffering from Pneumonia.
+Our goal is to train a model which is capable of classifying a new patients chest X-Ray into one of these 3 catagories. 
